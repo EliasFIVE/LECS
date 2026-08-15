@@ -1,0 +1,45 @@
+# Mac
+**/.DS_Store/
+
+# Unity
+#
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]in/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# IDE temp files
+ExportedObj/
+.idea/
+.vs/
+.gradle/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.vsconfig
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+**/Library/
+**/Logs/
+**/Temp/
+**/UserSettings/
+**/obj/
+**/.vscode/
+
+# Project specific
+*.meta
